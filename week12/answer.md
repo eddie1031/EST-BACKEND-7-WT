@@ -2,8 +2,8 @@
 **1-12. 다음의 상황을 확인하여 올바르게 동작하도록 명령어를 작성하여 주십시오.**  
 
 - 상황
-<그림 1> `TASKS` 테이블
-![ERD](https://github.com/user-attachments/assets/e995afc8-6b42-4a10-982d-796b97bfb61c)
+<그림 1> `TASKS` 테이블  
+![ERD](https://github.com/user-attachments/assets/e995afc8-6b42-4a10-982d-796b97bfb61c)  
 ```text
 1. <그림 1> 을 참고하여 테이블과 매핑할 Entity 클래스를 구성해주세요.
 2. 생성에 제한을 두기 위하여 기본 생성자(Constructor)의 접근 제어자는 `protected`로 설정합니다.
